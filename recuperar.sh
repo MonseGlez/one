@@ -1,4 +1,5 @@
 #/!bin/bash
+mkdir /home/papelera
 cd /home/papelera
 ls
 sleep 2
